@@ -1,0 +1,10 @@
+c:\users\danie\onedrive\documents\visual studio 2015\Projects\ChessProject\ChessProject\bin\Debug\ChessProject.exe.config
+C:\Users\danie\onedrive\documents\visual studio 2015\Projects\ChessProject\ChessProject\bin\Debug\ChessProject.exe
+C:\Users\danie\onedrive\documents\visual studio 2015\Projects\ChessProject\ChessProject\bin\Debug\ChessProject.pdb
+C:\Users\danie\onedrive\documents\visual studio 2015\Projects\ChessProject\ChessProject\obj\Debug\ChessProject.csprojResolveAssemblyReference.cache
+C:\Users\danie\onedrive\documents\visual studio 2015\Projects\ChessProject\ChessProject\obj\Debug\ChessProject.board.resources
+C:\Users\danie\onedrive\documents\visual studio 2015\Projects\ChessProject\ChessProject\obj\Debug\ChessProject.landing.resources
+C:\Users\danie\onedrive\documents\visual studio 2015\Projects\ChessProject\ChessProject\obj\Debug\ChessProject.Properties.Resources.resources
+C:\Users\danie\onedrive\documents\visual studio 2015\Projects\ChessProject\ChessProject\obj\Debug\ChessProject.csproj.GenerateResource.Cache
+C:\Users\danie\onedrive\documents\visual studio 2015\Projects\ChessProject\ChessProject\obj\Debug\ChessProject.exe
+C:\Users\danie\onedrive\documents\visual studio 2015\Projects\ChessProject\ChessProject\obj\Debug\ChessProject.pdb
